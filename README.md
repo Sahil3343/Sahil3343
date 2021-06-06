@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Sahil 👨‍💻
 
+A cybersecurity student. 
+
+<a href="https://www.linkedin.com/in/sahilmah/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
 **Sahil3343/Sahil3343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
